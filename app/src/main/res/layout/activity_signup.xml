@@ -36,12 +36,12 @@
                 android:layout_marginBottom="20dp"
                 android:fontFamily="@font/aviny"
                 android:gravity="center"
-                android:text="قرار"
+                android:text="ثبت نام در قرار"
                 android:textColor="#010403"
                 android:textSize="40sp" />
 
             <EditText
-                android:id="@+id/editTextTextPersonName"
+                android:id="@+id/nameBox"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginBottom="10dp"

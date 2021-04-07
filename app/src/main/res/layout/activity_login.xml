@@ -36,7 +36,7 @@
                 android:layout_marginBottom="20dp"
                 android:fontFamily="@font/aviny"
                 android:gravity="center"
-                android:text="قرار"
+                android:text="ورود به قرار"
                 android:textColor="#010403"
                 android:textSize="40sp" />
 

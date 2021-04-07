@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "432339446465",
+    "project_id": "gharar4-1f556",
+    "storage_bucket": "gharar4-1f556.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:432339446465:android:378bb0f59d486b3f7e8240",
+        "android_client_info": {
+          "package_name": "ir.shariaty.gharar4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "432339446465-inq4du7ffabq7ihovgfb8t7q08itv7u6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHMdjdq5GvqwqmfZcVvSiHB8o3Bll_FBs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "432339446465-inq4du7ffabq7ihovgfb8t7q08itv7u6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
